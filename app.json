@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "template_base_49",
+    "slug": "template_base_49",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
